@@ -1,0 +1,18 @@
+/* header.css */
+
+.header {
+    background-color: #333; /* Dark background */
+    color: #fff; /* Light text color */
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.header a {
+    color: #ffcc00; /* Contrasting link color */
+    text-decoration: none;
+}
+
+.header a:hover {
+    color: #ff9900; /* Hover state for links */
+}
